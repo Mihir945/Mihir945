@@ -32,7 +32,9 @@ Passionate about building real-world backend systems & solving DSA with C++
 
 
 ## 📈 GitHub Stats
-![Mihir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mihir945&show_icons=true&theme=radical)
+![Mihir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mihir945&show_icons=true&theme=radical)<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mihir945&layout=compact&hide=html,css&theme=radical)
 
 ## 🎨 Interests & Hobbies
 • Practicing DSA with a structured mindset<br>
