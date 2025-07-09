@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Mihir Kumar
+## Hi there, I'm Mihir! 👋
 
 
 I'm a Self-taught Backend Developer & currently grinding through DSA
